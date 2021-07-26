@@ -1,0 +1,97 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    overflow: hidden;
+}
+.logo{background-color: rgb(200, 158, 228);
+    text-align: center;
+    height: 50px;
+    width: 30%;
+    float: left;
+}
+.banner{
+    background-color:rgb(30, 210, 99);
+    text-align: center;
+    height: 50px;
+    width: 70%;
+    float: right;
+}
+.bar{background-color:rgb(223, 41, 41);
+    text-align: center;
+    height: 50px;
+    width: 100%;}
+.block{
+    overflow: hidden;
+}
+.left_block{
+    width: 50%;
+    height: 900px;
+    background-color: fuchsia;
+    float: left;
+    text-align: center;
+}
+.left_block_top{
+    height: 25%;
+    background-color: rgb(0, 148, 123);
+    text-align: center;
+}
+.left_block_center{
+    height: 25%;
+    background-color: rgba(110, 100, 8, 0.616);
+    text-align: center;
+}
+.left_block_bottom{
+    height: 50%;
+    background-color: rgba(238, 215, 8, 0.712);
+    text-align: center;
+}
+.center_block{
+    width: 30%;
+    height: 900px;
+    background-color: hotpink;
+    float: left;
+    
+}
+.top_block{
+    height: 30%;
+    background-color: lightcyan;
+    text-align: center;
+}
+.bottom_block{
+    height: 70%;
+    background-color: lightcoral;
+    text-align: center;
+}
+.right_block{
+    width: 20%;
+    height: 900px;
+    background-color: green;
+    float: left;
+    text-align: center;
+}
+.right_block_top{
+    height: 20%;
+    background-color: rgba(0, 0, 0, 0.733);
+    text-align: center;
+}
+.right_block_center{
+    height: 30%;
+    background-color: violet;
+    text-align: center;
+}
+.right_block_bottom{
+    height: 50%;
+    background-color: rgba(0, 0, 255, 0.603);
+    text-align: center;
+}
+footer{
+    height: 100%;
+    width: 100%;
+    background-color: lime;
+    text-align: center;
+}
+.image{
+    color: white;
+}
